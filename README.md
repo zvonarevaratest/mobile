@@ -6,6 +6,6 @@
 
 [Отчет по результатам тестирования мобильного приложения "shopping-list"](https://docs.google.com/document/d/1zfc3T01RdJfN8X2jb8ZW_oBnftJGV_c-u6Vxy8r9vHE/edit)
 
-[Тестовый прогон для мобильного приложения "shopping-list"](Express_run_Mobile App Testing.pdf)
+[Тестовый прогон для мобильного приложения "shopping-list"](Express_run_Mobile_App_Testing.pdf)
 
-[Баг-репорты для мобильного приложения "Shopping-list"](Отчеты о дефекте для приложения "shopping-list".xlsx)
+[Баг-репорты для мобильного приложения "Shopping-list"](Отчеты_о_дефекте_для_приложения_"shopping_list".xlsx)
